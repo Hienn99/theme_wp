@@ -1,0 +1,14 @@
+/*Your admin custom css*/
+body.wp-admin:not(.post-type-wp_igsp_gallery) #wp-igsp-post-sett.postbox,
+#adminmenu #menu-comments,
+#adminmenu #toplevel_page_wpis, 
+#menu-posts-wp_igsp_gallery .wp-submenu,
+#adminmenu #toplevel_page_wphpuw,
+#adminmenu #toplevel_page_sendgridsmtp,
+#adminmenu #toplevel_page_edit-post_type-acf,
+#adminmenu #toplevel_page_phoeniixx,
+#adminmenu #toplevel_page_wpseo_dashboard,
+#adminmenu #menu-tools,
+.wp-admin .notice{
+	display:none;
+}

@@ -1,0 +1,49 @@
+﻿$HL_Metabox =  new HL_Ajax_Metabox();
+
+//Add new section
+$arr_sections = array();
+$section = array(
+			'title' => 'This is my title',
+			'post_type' => array('post', 'page'),
+			'fields' => array(
+								// field 1
+								'key_text_field_name' => array(
+																'type' 	=> 'text', 
+																'title'	=> 'Ho va ten',
+																'placeholder' => 'Nhập dữ liệu vào'
+															),
+								'key_textarea_field_name' => array(
+																'type' 	=> 'textarea', 
+																'title'	=> 'Mo ta',
+																'placeholder' => 'Nhập dữ liệu vào'
+															),
+						)
+			);
+$arr_sections[] = $section;
+
+$section2 = array(
+			'title' => 'This is my title 2',
+			'post_type' => array('post'),
+			'fields' => array(
+								// field 1
+								'key_text_field_name_2' => array(
+																'type' 	=> 'text', 
+																'title'	=> 'Ho va ten',
+																'placeholder' => 'Nhập dữ liệu vào'
+															),
+								'key_textarea_field_name_2' => array(
+																'type' 	=> 'textarea', 
+																'title'	=> 'Mo ta',
+																'placeholder' => 'Nhập dữ liệu vào'
+															),
+								'key_text_field_name_3' => array(
+																'type' 	=> 'text', 
+																'title'	=> 'Ho va ten 2222',
+																'placeholder' => 'Nhập dữ liệu vào'
+															),
+						)
+			);
+$arr_sections[] = $section2;
+
+$HL_Metabox->set_arr_sections( $arr_sections );
+

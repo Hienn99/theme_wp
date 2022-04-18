@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-12-11 10:34+0700\n"
+"PO-Revision-Date: 2020-12-18 15:05+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Integrate javascript, css libraries into the website\n"
+
+msgid "Integrate javascript, css libraries into the website"
+msgstr ""
+
+msgid "Use for the front-end"
+msgstr ""
+
+msgid "Use for the front-end"
+msgstr ""
+
+msgid "Css: Font Awesome 4.7.0, Font Awesome 5.6.1"
+msgstr ""
+
+msgid "Contact Us"
+msgstr ""
+
+msgid "Web design"
+msgstr ""
+
+msgid "Wordpress Share"
+msgstr ""
+
+msgid "Web Content"
+msgstr ""
+
+msgid "Upload folder"
+msgstr ""
+
+msgid "to folder"
+msgstr ""
+
+msgid "Active from menu"
+msgstr ""
+
+msgid "Check All"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Js & Css libs setting"
+msgstr ""
+

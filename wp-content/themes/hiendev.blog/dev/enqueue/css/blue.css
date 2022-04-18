@@ -1,0 +1,76 @@
+	.flat-menu ul.flat-responsive-menu li ul.menu-dropdown-one li {
+		border-top:1px solid #37baf2 !important;
+	}
+	
+	.flat-menu ul.flat-responsive-menu li ul.menu-dropdown-one li,	
+	.flat-menu ul.flat-responsive-menu li ul.menu-dropdown-two li,
+    .flat-menu ul.flat-responsive-menu li ul.menu-dropdown-three li,	
+	.flat-menu ul.flat-responsive-menu li ul.menu-dropdown-four li,
+    .flat-menu ul.flat-responsive-menu li ul.menu-dropdown-five li,
+	p.drop-caps.full:first-child:first-letter,
+	.portfolio-filter .btn:active,
+	.portfolio-filter .btn.active,
+	.portfolio-filter .btn:hover,
+	.portfolio-filter .btn:focus,
+	.next-prev,
+	.pagination > li > a, .pagination > li > span,
+	.dmtop,
+	.btn-primary,
+	.demo_changer .demo-icon,
+	mark,
+	.progress-bar,
+	#accordion-second .accordion-heading .accordion-toggle > em,
+	.tooltip-inner {
+		background-color: #34aadc;
+	}
+	.tooltip.bottom .tooltip-arrow {
+		border-bottom-color: #34aadc;
+	}
+	.tooltip.right .tooltip-arrow {
+		border-right-color: #34aadc;
+	}
+	blockquote,
+	.tooltip.left .tooltip-arrow {
+		border-left-color: #34aadc;
+	}
+	.tagcloud a:hover,
+	.portfolio-filter .btn:active,
+	.portfolio-filter .btn.active,
+	.portfolio-filter .btn:hover,
+	.portfolio-filter .btn:focus,
+	.pagination > li > a, .pagination > li > span,
+	.social span a:hover,
+	.form-control:focus,
+	.btn-primary,
+	mark {
+		border-color:#34aadc; 
+	}
+	.tagcloud a:hover,
+	h1 a:hover,
+	h2 a:hover,
+	h3 a:hover,
+	h4 a:hover,
+	h5 a:hover,
+	h6 a:hover{
+		background:#34aadc;
+	}
+	.check li:before,
+	.recent_tweets li a,
+	.general-wrapper .byline,
+	.post-wrapper .byline,
+	.post_type,
+	.portfolio-filter .btn,
+	.post-footer .like:hover,
+	.contact_details li i,
+	.social span a:hover,
+	a { 
+		color:#34aadc;
+	}
+	.magnifier {
+		background:#34aadc;
+		background:rgba(52,170,250,0.8);
+	}
+
+	.navbar-brand {
+		background: url(../images/logo_blue.png) no-repeat scroll left top rgba(0, 0, 0, 0);
+	}

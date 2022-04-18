@@ -1,0 +1,14 @@
+.about_img{
+	float: left;
+}
+.pagination .page-numbers {
+	border: 1px solid #efefef;
+    color: #ffffff;
+    float: left;
+    line-height: 1.6;
+    margin-left: 5px;
+    padding: 6px 15px;
+    position: relative;
+    text-decoration: none;
+    background-color: #34aadc;
+}

@@ -1,0 +1,78 @@
+/*Metabox admin style*/
+
+.w366-mtb-textarea{
+	min-height:50px;
+}
+
+.w366-mtb-group .item{
+	border-bottom: 1px solid #e5e5e5;
+	position:relative;
+	background: #f1f1f1;
+}
+
+.w366-mtb-group .sortable-item{
+	cursor:all-scroll;
+	padding: 0 10px;
+}
+
+.w366-mtb-group .item .remove{
+	position:absolute;
+	right:0;
+	cursor:pointer;
+	color: #c30000;
+}
+
+.w366-mtb-group .w366-mtb-data .item:first-child .remove{
+	display:none;
+}
+
+.w366-mtb-group .button {
+	margin-top:10px;	
+}
+
+/*repeater field*/
+.w366-mtb-group.repeater{
+	border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+	padding:5px; 
+	background: rgba(241, 241, 241, 0.4);
+}
+
+/*radio field*/
+ul.horizontal li{
+	display:inline-block;
+}
+
+.w366-mtb-title{
+	margin:0;
+}
+
+.w366-mtb-file-p .w366-mtb-bao-file img{
+	width: 10px;
+	height:auto;
+    margin-right: 10px;
+}
+.w366-mtb-file-p .w366-mtb-bao-file span{
+	color: #b42835;
+}.w366-mtb-file-p .w366-mtb-file{
+	display:none;
+}
+
+.attachments-container{
+	margin-bottom:20px;
+}.attachments-container .attachments{
+	float:left;
+	width:100%;
+	margin-left:-8px;
+	margin-right:-8px;
+}.attachments-container .attachments img.img{ 
+	*width:100%; 
+}.attachments-container .attachments .removeit_img{
+	position: absolute;
+	z-index: 111;
+	right: 8px;
+	background: #f00;
+	color: #fff;
+}.wp-core-ui #postbox-container-1 .image-single .attachment{
+	width:50%;
+}

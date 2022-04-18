@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-12-11 10:34+0700\n"
+"PO-Revision-Date: 2021-04-20 11:16+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Integrate Javascript, JQuery, Css libraries into the website\n"
+
+msgid "Integrate Javascript, JQuery, Css libraries into the website"
+msgstr "Tích hợp thư viện Javascript, JQuery, Css vào website để sử dụng"
+
+msgid "Use for the front-end"
+msgstr "Sử dụng cho frond end"
+
+msgid "Css: Font Awesome 4.7.0, Font Awesome 5.6.1"
+msgstr ""
+
+msgid "Contact Us"
+msgstr "Liên hệ"
+
+msgid "Web design"
+msgstr "Thiết kế web"
+
+msgid "Wordpress Share"
+msgstr "Học Wordpress"
+
+msgid "Web Content"
+msgstr "Viết bài giá rẻ"
+
+msgid "Upload folder"
+msgstr "Tải vào thư mục"
+
+msgid "to folder"
+msgstr "đến thư mục"
+
+msgid "Active from menu"
+msgstr "Kích hoạt từ menu"
+
+msgid "Check All"
+msgstr "Chọn tất cả"
+
+msgid "Active"
+msgstr "Kích hoạt"
+
+msgid "Js & Css libs setting"
+msgstr "Cấu hình thư viện Js và Css"

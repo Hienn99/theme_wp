@@ -1,0 +1,64 @@
+/*Your addmin css*/
+#adminmenuwrap #adminmenu li.menu-top:not(#menu-users){ display:none; }
+#adminmenu li.wp-menu-separator{ display:none; }
+#wle-admin-power .in-form table tr {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+    width: 100%;
+}
+#wle-admin-power td.nopadding{ padding:0; }
+.admin-power-check-title{ font-weight:bold; margin-bottom: 5px; }
+#wle-admin-power .fsz-tt{ font-size: 1.5rem; text-transform: uppercase; }
+#wle_check_all_group{
+    background: #f1f1f1;
+    padding: 8px 10px;
+    border: 1px solid #dedede;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+#wle_admin_power_menu_td{
+	display:block;
+	width:100%;
+}#wle_admin_power_menu_td ul li{
+	display:inline-block;
+	width:25%;
+}#wle_admin_power_menu_td ul{
+	margin:0;
+}#wle_admin_power_menu_td small{
+	font-style: italic;
+    color: #f00;
+    margin-bottom: 5px;
+    display: block;
+}
+
+#adminmenu, #adminmenu .wp-submenu, #adminmenuback, #adminmenuwrap{
+	width: 200px;
+}#wpcontent, #wpfooter {
+    margin-left: 200px;
+}#adminmenu .wp-submenu{
+	left: 200px;
+}
+
+body.w366-has-barand-logo #adminmenu{ margin-top:0; }
+#adminmenuwrap #adminmenu #toplevel_page_hiendev-logo .dashicons-before{
+	display:none;
+}#adminmenuwrap #adminmenu #toplevel_page_hiendev-logo .brand-logo{ width:100%; }
+#adminmenuwrap #adminmenu #toplevel_page_hiendev-logo .wp-menu-name{ font-size:0; padding-left:10px; background:#e4e4e4; }
+
+#wpadminbar,#adminmenu, #adminmenu .wp-submenu, #adminmenuback, #adminmenuwrap{
+	background: #1e4215;
+}#wpadminbar .ab-empty-item, #wpadminbar a.ab-item, #wpadminbar>#wp-toolbar span.ab-label, #wpadminbar>#wp-toolbar span.noticon,
+#wpadminbar #adminbarsearch:before, #wpadminbar .ab-icon:before, #wpadminbar .ab-item:before {
+	color:#fff;
+}
+#adminmenu div.wp-menu-image.svg, #wpadminbar .yoast-logo.svg {
+    filter: brightness(0) invert(1);
+}#adminmenu div.wp-menu-image:before, #collapse-button .collapse-button-icon:after, #collapse-button {
+    color: rgb(255 255 255);
+}#adminmenu .wp-has-current-submenu .wp-submenu .wp-submenu-head, #adminmenu .wp-menu-arrow, #adminmenu .wp-menu-arrow div, #adminmenu li.current a.menu-top, #adminmenu li.wp-has-current-submenu a.wp-has-current-submenu, .folded #adminmenu li.current.menu-top, .folded #adminmenu li.wp-has-current-submenu {
+    background: #2d8b16;
+}#adminmenu .wp-has-current-submenu .wp-submenu, #adminmenu .wp-has-current-submenu .wp-submenu.sub-open, #adminmenu .wp-has-current-submenu.opensub .wp-submenu, #adminmenu a.wp-has-current-submenu:focus+.wp-submenu, .no-js li.wp-has-current-submenu:hover .wp-submenu {
+    background-color: #0a7221;
+}#adminmenu li.wp-has-submenu.wp-not-current-submenu.opensub:hover:after {
+    border-right-color: #fdfeff;
+}

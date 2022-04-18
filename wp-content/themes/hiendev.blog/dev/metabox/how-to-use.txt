@@ -1,0 +1,1 @@
+$content = hl_get_field( $field_key );
