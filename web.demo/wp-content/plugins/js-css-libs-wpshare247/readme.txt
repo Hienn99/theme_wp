@@ -1,6 +1,6 @@
 ﻿=== Plugin Name ===
-Contributors: wpshare247
-Donate link: wpshare247
+Contributors: hiendev
+Donate link: https://github.com/Hienn99
 Tags: javascript, js, css, slider, fontawesome, fancybox, OwlCarousel2, slick slider, flickity slider, jquery confirm, swiper slider, Waypoints, Countdown
 Requires at least: 4.9
 Tested up to: 5.6
